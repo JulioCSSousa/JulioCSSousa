@@ -6,3 +6,4 @@ Sou formado como técnico em química mas atualmente estou na faculdade de Anál
 **Python** | MySQL | FastAPi | GIT
  
 - 👯 Em busca de projetos conjuntos
+- 🌱 Estudando estrutura de dados
