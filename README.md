@@ -1,5 +1,6 @@
-Trilhando caminho BackEnd / QA
+Trilhando caminho desenvolvedor BackEnd / QA
 
-- 🌱 Atualmente aprendendo Python | MySQL | Estrutura de Dados
+**Python** | MySQL | FastAPi | GIT
+ 
 - 👯 Em busca de projetos conjunto 
 
