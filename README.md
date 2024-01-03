@@ -4,7 +4,7 @@ Sou formado como técnico em química mas atualmente estou cursando faculdade de
 **Python** | MySQL | FastAPi | GIT
  
 - 👯 Em busca de projetos conjuntos
-- 🌱 Estudando estrutura de dados
+- 🌱 Estudando Django
 
 <div align="center">
 <a href="https://github.com/JulioCSSousa">
