@@ -1,11 +1,3 @@
-Em 2022 decidi mudar meu plano de carreira e ingressar na computação. 
-Sou formado como técnico em química mas atualmente estou cursando faculdade de Análise e Desenvolvimento de Sistemas
-
-**Python** | MySQL | FastAPi | GIT
- 
-- 👯 Em busca de projetos conjuntos
-- 🌱 Estudando Django
-
 <div align="center">
 <a href="https://github.com/JulioCSSousa">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioCSSousa&show_icons=true&theme=dracula&include_all_commits">
