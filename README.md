@@ -1,3 +1,12 @@
+<div>
+ <h2>
+  About Me
+ </h2>
+ <p>
+  Hi! My name is Julio, I'm back-end developer. I'm working to become a full-stack. I have some personal experience in back-end development usign Asp.NetCore, fastApi, TypeScript-Express and MySQL
+ </p>
+</div>
+
 <div align="center">
 <a href="https://github.com/JulioCSSousa">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioCSSousa&show_icons=true&theme=dracula&include_all_commits">
@@ -6,7 +15,8 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="Dev-Python" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="Dev-DB" height="50" width="60" src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png">
-
+<img align="center" alt="Dev-DB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+<img align="center" alt="Dev-DB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
 </div>
  <hr
