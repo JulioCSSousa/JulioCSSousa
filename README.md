@@ -3,7 +3,7 @@
   About Me
  </h2>
  <p>
-  Hi! My name is Julio, I'm back-end developer. I'm working to become a full-stack. I have some personal experience in back-end development usign Asp.NetCore, fastApi and MySQL with ORM as SQLAlchemy and EntityFramework. 
+  Hi! My name is Julio, I'm back-end developer. I'm working to become a full-stack. I have some personal experience in back-end development usign Node-ts, python, C# with MySQL 
  </p>
 </div>
 
